@@ -12,9 +12,13 @@ CS student exploring systems, security, and software craft.
 | 🔒 **Cybersecurity Lab** | Hands-on exercises & notes from ISC2 CC, Google Cybersecurity path |
 | 🤖 **AI** | ProjectsExperimenting with LLMs, prompt engineering & AI-powered tools |
 
+### Languages I know
+
+`C++` · `Python` ·
+
 ### Tools I use
 
-`C++` · `Python` · `Bash` · `Git` · `GOWIN EDA` · `VS Code`
+`Bash` · `Git` · `GOWIN` · `VS Code`· `CLion`· `Jupyter Notebook`· `Wireshark` 
 
 ---
 

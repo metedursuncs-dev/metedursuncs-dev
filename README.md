@@ -10,7 +10,7 @@ CS student exploring systems, security, and software craft.
 |---|---|
 | 🔍 **GitHub Repo Finder** | CLI tool that turns natural language into relevant GitHub repos — Python, Anthropic SDK |
 | 🔒 **Cybersecurity Lab** | Hands-on exercises & notes from ISC2 CC, Google Cybersecurity path |
-| ⚙️ **Digital Design** | Hardware multiplier circuits, GOWIN EDA projects from coursework |
+| 🤖 **AI** | ProjectsExperimenting with LLMs, prompt engineering & AI-powered tools |
 
 ### Tools I use
 
